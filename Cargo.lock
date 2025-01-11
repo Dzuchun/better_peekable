@@ -3,7 +3,7 @@
 version = 4
 
 [[package]]
-name = "better-peek"
+name = "better_peekable"
 version = "0.1.0"
 dependencies = [
  "generic-array",
